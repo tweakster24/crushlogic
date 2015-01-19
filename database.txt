@@ -1,0 +1,13 @@
+Database name-------->  crushlist
+
+Table 1-----------------> info
+	id
+	name
+	username
+	password
+	email
+Table 2------------------> crush_list
+
+	crush_id
+	username
+	uska_crush
